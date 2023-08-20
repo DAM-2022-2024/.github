@@ -2,9 +2,9 @@
 
 ## Segon curs (2023-2024)
 
-[intelliJ-IDEA](https://github.com/DAM-2022-2024/intelliJ-IDEA.git)
+[Instal·lar IntelliJ IDEA Ultimate](https://github.com/DAM-2022-2024/intelliJ-IDEA.git)
 
-[primeraAplicacio](https://github.com/DAM-2022-2024/primeraAplicacio.git)
+[El vostre primer projecte](https://github.com/DAM-2022-2024/primeraAplicacio.git)
 
 ****
 
