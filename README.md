@@ -1,5 +1,6 @@
-# DAM 2022 2024
+# DAM 2022 2024 (.github.git)
 
+Repositori https://github.com/DAM-2022-2024/.github.git
 
 
 ## Segon
