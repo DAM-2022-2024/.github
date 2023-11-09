@@ -52,6 +52,7 @@
 <details><summary>Desplega per veure les activitats</summary>
 
 > <hr>
+
 > [**A01U** - Activitat 1 - Instal·lació i configuració servidor d'Odoo 13](https://github.com/DAM-2022-2024/dam-mp10-uf01-a01u)
 >  
 > [**A02U** - Activitat 2 - Creació de la vostra pròpia empresa](https://github.com/DAM-2022-2024/dam-mp10-uf01-a02u)
