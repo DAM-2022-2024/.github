@@ -80,17 +80,17 @@
 
 [MP13: Projectes - Activitat 1: Sistema Control Vacances](https://github.com/DAM-2022-2024/mp13-projectes-joan-act01-control-de-vacances.git)
 
-## [Pas **1**: **Inicialització** del vostre **repositori remot**.](https://github.com/DAM-2022-2024/mp13-projectes-joan-act01-control-de-vacances/pas-01-inicialitzacio-del-vostre-repositori-remot.md)
+## [Pas **1**: **Inicialització** del vostre **repositori remot**.](https://github.com/DAM-2022-2024/mp13-projectes-joan-act01-control-de-vacances/blob/main/pas-01-inicialitzacio-del-vostre-repositori-remot.md)
 
-## [Pas **2**: **Anàlisis**, **Disseny** i **Diagrama de flux**.](https://github.com/DAM-2022-2024/mp13-projectes-joan-act01-control-de-vacances/pas-02-analisis-disseny-i-diagrama-flux.md)
+## [Pas **2**: **Anàlisis**, **Disseny** i **Diagrama de flux**.](https://github.com/DAM-2022-2024/mp13-projectes-joan-act01-control-de-vacances/blob/main/pas-02-analisis-disseny-i-diagrama-flux.md)
 
-## [Pas **3**: Creació del projecte a **IntelliJ IDEA**.](https://github.com/DAM-2022-2024/mp13-projectes-joan-act01-control-de-vacances/pas-03-creacio-projecte.md)
+## [Pas **3**: Creació del projecte a **IntelliJ IDEA**.](https://github.com/DAM-2022-2024/mp13-projectes-joan-act01-control-de-vacances/blob/main/pas-03-creacio-projecte.md)
 
-## [Pas **4**: Creació del **```User Interface```**](https://github.com/DAM-2022-2024/mp13-projectes-joan-act01-control-de-vacances/pas-04-creacio-user-interface.md)
+## [Pas **4**: Creació del **```User Interface```**](https://github.com/DAM-2022-2024/mp13-projectes-joan-act01-control-de-vacances/blob/main/pas-04-creacio-user-interface.md)
 
-## [Pas **5**: Creació de la classe **```Benvinguda```**](https://github.com/DAM-2022-2024/mp13-projectes-joan-act01-control-de-vacances/pas-05-creacio-classe-benvinguda.md)
+## [Pas **5**: Creació de la classe **```Benvinguda```**](https://github.com/DAM-2022-2024/mp13-projectes-joan-act01-control-de-vacances/blob/main/pas-05-creacio-classe-benvinguda.md)
 
-## [Pas **6**: Creació de la classe **```Principal```**](https://github.com/DAM-2022-2024/mp13-projectes-joan-act01-control-de-vacances/pas-06-creacio-classe-principal.md)
+## [Pas **6**: Creació de la classe **```Principal```**](https://github.com/DAM-2022-2024/mp13-projectes-joan-act01-control-de-vacances/blob/main/pas-06-creacio-classe-principal.md)
 
 <hr>
 
