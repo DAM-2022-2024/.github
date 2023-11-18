@@ -1,8 +1,6 @@
-# Desenvolupament d'aplicacions multiplataforma (videojocs i oci digital)
+# Repositori de la promoció **```DAM```** - **```2022-2024```**
 
-## Repositori de la promoció **```DAM```** - **```2022-2024```**
-
-
+## *DAM*: Desenvolupament d'aplicacions multiplataforma (videojocs i oci digital)
 
 <hr>
 
