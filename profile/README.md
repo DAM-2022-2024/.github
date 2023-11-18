@@ -6,7 +6,7 @@
 
 <hr>
 
-# [Tutoria](https://github.com/DAM-2022-2024/tutoria)
+# [Tutoria](https://github.com/DAM-2022-2024/.github/tree/main/profile/tutoria)
 
 <hr>
 
