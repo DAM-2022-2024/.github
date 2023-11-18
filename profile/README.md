@@ -6,9 +6,7 @@
 
 <hr>
 
-# Tutoria
-
-## [Com escriure un correu](https://github.com/DAM-2022-2024/com-escriure-un-correu)
+# [Tutoria](https://github.com/DAM-2022-2024/tutoria)
 
 <hr>
 
